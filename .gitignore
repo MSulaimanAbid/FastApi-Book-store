@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AI assistant memory file — project-local, never commit
+claude.md
